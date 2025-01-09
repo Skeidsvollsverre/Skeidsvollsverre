@@ -1,10 +1,7 @@
-- 👋 Hi, I’m BALLHOG🐗
-- 👀 I’m interested in BALLHOG🐗
-- 🌱 I’m currently learning BALLHOG🐗
-- 💞️ I’m looking to collaborate on BALLHOG🐗
-- 📫 How to reach me BALLHOG🐗
-- 😄 Pronouns: BALLHOG🐗
-- ⚡ Fun fact: BALLHOG🐗
+- 👋 Hi, Sverre
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Javascript/Svelte
+- 📫 How to reach me Skeidsvollsverre@gmail.com
 
 <!---
 Skeidsvollsverre/Skeidsvollsverre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
